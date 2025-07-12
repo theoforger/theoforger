@@ -19,4 +19,6 @@
 - It's always DNS
 - Traumatized by NVIDIA drivers
 - Immutable OSes are cool
+- JetBrains IDEs are so good, I'm happy to give them all my RAM
+- Please make IPv6 more universal
 - ...
