@@ -5,6 +5,7 @@
 - ☁️ Self-hosting is the best rabbit hole I've fallen into
 - 🔒 Passionate about all things privacy and security
 - 🎮 Spent way too many hours in Minecraft and podcasts
+- 💬 Also a bit nerdy about linguistics, geography, and... air conditioners. Yes...
 - 🏋🏻 Average gym bro. Re-rack your weights guys!
 
 ### Random Tech Bits
